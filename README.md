@@ -17,6 +17,23 @@ Features:-
 > Handles division by zero with try-catch
 > Beginner-friendly Java Project.
 
+Sample Output-
+Enter your First number:-
+100
+Enter your Second number:-
+8
+Enter your Option:- Add/Sub/Mul/Div
+add
 
+You Chose Addition!
+The Addition Result is: 108
+
+
+Concepts Practiced-
+* Java Methods
+* Scanner for User Input
+* Switch Statement
+* Exception Handling
+* Arithmetic Operations
 
 
