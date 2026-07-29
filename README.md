@@ -1,7 +1,14 @@
 # basic-calculator-app
-Overview- 
-This is a simple java console-based calculator application that performs basic arithmetic operations. It allows user to enter two numbers, choose an operation, and displays the result.
+Description-
+This is a simple console-based calculator application built using Java. The program allows the user to enter two numbers, choose an arithmetic operation, and displays the result.
 
-This project was created to practice java fundamentals such as variables, user input, conditional statements, methods, and basic arithmetic operations.
+The calculator currently supports four basic mathematical operations:
+Addition
+Subtraction
+Multiplication
+Division
+It also handles division by zero using Java exception handling.
+
+
 
 
